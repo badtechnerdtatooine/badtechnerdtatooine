@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I´m Rafael, brazilian student
+
 <!--
 **badtechnerdtatooine/badtechnerdtatooine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
